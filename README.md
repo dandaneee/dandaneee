@@ -1,8 +1,20 @@
 # Profile
 
-> - name : W J H
-> - age : 31
-> - birth : 22 March
-> - mail : azurite8311@gmail.com
-> - interest : Physical fitness, Dog
+> - Name : W J H
+>
+> - Age : 31
+>
+> - Birth : 22 March
+>
+> - Mail : azurite8311@gmail.com
+>
+> - Major : Chemical Engineering in University of Suwon
+>
+> - Carrer :  Interned Semiconductor equipment company,
+>
+>   ​				Taking Cording training
+>
+> - interest : Fitness, Doggy, Online Game (**refrain from playing**)
+>
+>   
 
