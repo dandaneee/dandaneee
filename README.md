@@ -16,5 +16,4 @@
 >
 > - interest : Fitness, Doggy, Online Game (**refrain from playing**)
 >
->   
 
